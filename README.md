@@ -17,10 +17,10 @@
 
 ## 📈 My GitHub Stats
 
-![My Top Laguages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianadelazzari)](https://github.com/adrianadelazzari/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianadelazzari&layout=compact)](https://github.com/adrianadelazzari/github-readme-stats)
 
 ![Adriana de Lazzari's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianadelazzari&show_icons=true&theme=gruvbox)
 
 ## 🤝 Connect with Me!
 
-![LinkedIn](https://www.linkedin.com/in/adrianalazzari/)
+[LinkedIn](https://www.linkedin.com/in/adrianalazzari/)
