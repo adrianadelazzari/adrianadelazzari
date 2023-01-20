@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there. I'm Adriana👋
 
-<!--
-**adrianadelazzari/adrianadelazzari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩‍💻 I’m currently working on Angular and React.js projects
+- 🌱 I’m passionate about learning
+- 😄 My pronouns are she/her
+- ⚡ I love the Harry Potter series
 
-Here are some ideas to get you started:
+## 🤖 Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## 📈 My GitHub Stats
+
+```
+[![My Top Laguages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianadelazzari)](https://github.com/adrianadelazzari/github-readme-stats)
+```
+![Adriana de Lazzari's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianadelazzari&show_icons=true&theme=gruvbox)
+
+## 🤝 Connect with Me!
+
+![LinkedIn](https://www.linkedin.com/in/adrianalazzari/)
