@@ -13,7 +13,7 @@
 
 ## 🤖 Languages and Tools
 
-![Languages and Tools](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,react,nodejs,git,java,py,mysql,mongodb,eclipse,idea,vscode,androidstudio)
+[![Languages and Tools](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,react,nodejs,git,java,py,mysql,mongodb,eclipse,idea,vscode,androidstudio)]([https://skillicons.dev](https://www.linkedin.com/in/adrianalazzari/))
 
 ## 📈 My GitHub Stats
 
