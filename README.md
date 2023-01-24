@@ -1,3 +1,5 @@
+[![Cover photo](https://github.com/adrianadelazzari/adrianadelazzari/blob/main/cover-photo.png)
+
 ## Hi there. I'm Adriana👋
 
 - 👩‍💻 I’m currently working on Angular and React.js projects
@@ -13,7 +15,7 @@
 
 ## 🤖 Languages and Tools
 
-[![Languages and Tools](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,react,nodejs,git,java,py,mysql,mongodb,eclipse,idea,vscode,androidstudio)](https://www.linkedin.com/in/adrianalazzari/)
+[![Languages and Tools](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,react,nodejs,git,java,py,mysql,mongodb,idea,vscode)](https://www.linkedin.com/in/adrianalazzari/)
 
 ## 📈 My GitHub Stats
 
