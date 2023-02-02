@@ -1,4 +1,4 @@
-
+![Cover photo](https://github.com/adrianadelazzari/adrianadelazzari/blob/main/cover-picture.png)
 
 ## Hi there. I'm Adriana👋
 
