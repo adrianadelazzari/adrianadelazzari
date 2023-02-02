@@ -15,7 +15,7 @@
 
 ## 🤖 Languages and Tools
 
-[![Languages and Tools](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,react,vuejs,nodejs,git,java,py,mysql,mongodb,idea,vscode)](https://www.linkedin.com/in/adrianalazzari/)
+[![Languages and Tools](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,react,vuejs,nodejs,git,java,py,mysql,mongodb,vscode)](https://www.linkedin.com/in/adrianalazzari/)
 
 ## 📈 My GitHub Stats
 
