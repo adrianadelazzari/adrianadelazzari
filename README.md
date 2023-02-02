@@ -3,6 +3,7 @@
 ## Hi there. I'm Adriana👋
 
 - 👩‍💻 I’m currently working on Angular and React.js projects
+- 📚 I'm currently learning Vue.js
 - 🌱 I’m passionate about learning
 - 😄 My pronouns are she/her
 - ⚡ I love the Harry Potter series
